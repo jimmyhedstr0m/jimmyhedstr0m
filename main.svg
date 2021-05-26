@@ -1,0 +1,44 @@
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					display: flex;
+					width: 100%;
+					height: 400px;
+					flex-direction: row;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+				}
+
+				img {
+					display: block;
+					width: 100px;
+					margin-left: 32px;
+					transform: rotate(4deg);
+				}
+			</style>
+
+			<div class="container">
+				<div>
+					<h1>Hi, I'm Jimmy! 👋</h1>
+					<p>I like to code. Some might call me a nerd and beer enthusiast 🤓🍻</p>
+				</div>
+
+				<img src="avatar.png" />
+			</div>
+		</div>
+	</foreignObject>
+</svg>

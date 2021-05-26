@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+	<br>
+	<a href="https://www.linkedin.com/in/jimmyhedstrom">
+		<img src="main.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **jimmyhedstr0m/jimmyhedstr0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
