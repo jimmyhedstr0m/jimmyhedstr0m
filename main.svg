@@ -11,6 +11,8 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
+					background-color: #0c1117;
+					color: #c9d1d9;
 					font-family:
 						system-ui,
 						-apple-system,
@@ -37,7 +39,7 @@
 					<p>I like to code. Some might call me a nerd and beer enthusiast 🤓🍻</p>
 				</div>
 
-				<img src="avatar.png" />
+				<img src="https://raw.githubusercontent.com/jimmyhedstr0m/jimmyhedstr0m/main/avatar.png" />
 			</div>
 		</div>
 	</foreignObject>
